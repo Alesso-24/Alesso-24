@@ -160,7 +160,7 @@ A modular computer-vision system that audits a tool shelf in real time: detects 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alesso-24&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2540C0&icon_color=EA6A2E&text_color=6F6A5F" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alesso-24&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2540C0&icon_color=EA6A2E&text_color=6F6A5F" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Alesso-24&hide_border=true&background=00000000&stroke=00000000&ring=2540C0&fire=EA6A2E&currStreakLabel=2540C0" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alesso-24&hide_border=true&bg_color=00000000&color=6F6A5F&line=2540C0&point=EA6A2E" width="100%"/>
