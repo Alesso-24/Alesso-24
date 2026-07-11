@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2540C0,100:EA6A2E&height=200&section=header&text=Alessandro%20Reyes&fontSize=52&fontColor=F3EDE1&fontAlignY=36&desc=Mechatronics%20Engineer%20%C2%B7%20Edge%20AI%20%26%20Robotics&descAlignY=56&descSize=19&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2540C0,100:EA6A2E&height=200&section=header&text=Alessandro%20Reyes&fontSize=52&fontColor=F3EDE1&fontAlignY=36&desc=Mechatronics%20Engineer%20%C2%B7%20Edge%20AI%20%26%20Robotics&descAlignY=56&descSize=19&animation=fadeIn&v=2" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1300&color=2540C0&center=true&vCenter=true&width=680&lines=Edge+AI+%2B+Robotics+%2B+Control+Systems;Found+a+hardware+bug+simulation+never+would+have+caught;1st+place%2C+Quantum+Computing+Hackathon+LATAM+2026;2x+IEEE+author%3A+CASE+2026+%2B+BDAI+2026)](https://alesso-24.github.io/portfolio/)
 
